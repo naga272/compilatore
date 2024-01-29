@@ -1,0 +1,26 @@
+# changelog
+
+## version [1.0.2] - 14 / 01 / 2024
+
+### add
+
+- compilazione applicata correttamente
+- aggiunta la possibilita creare variabili di tipi stringa e interi 
+- fixed bugs
+
+
+## version [1.0.1] - 11 / 01 / 2024
+
+### add
+
+- CHANGELOG.txt 
+- README.md
+- /log/
+- /flussi/
+- /bin/
+- /bin/hello.sor
+- /bin/index.py
+- /bin/module/main.pyx
+- /bin/module/regole.py
+- /bin/module/setup.py
+- /bin/module/sezioni_asm.py
