@@ -13,16 +13,20 @@ in linguaggio macchina (codice nasm x64), poi compila il file asm generato e lo 
 
 Istruzioni consentite all'interno del programma .volt:
 - commenti
--- // sono un commento opzionale
+
+// sono un commento opzionale
 - dichiarazioni variabili di tipo stringa e interi
--- a = 12 + 25 * 89 / 100   // sono un commento opzionale
--- b = "Stringa"            // sono un commento opzionale
+
+a = 12 + 25 * 89 / 100   // sono un commento opzionale
+b = "Stringa"            // sono un commento opzionale
 
 - dichiarazioni costanti di tipo intero:
--- %define costante 125
+
+%define costante 125
 
 - incrementa velocemente una variabile:
--- a += 25 - 12             //sono un commento opzionale
+
+a += 25 - 12             //sono un commento opzionale
 
 
 ## Requisiti
