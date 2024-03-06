@@ -33,7 +33,7 @@ a += 25 - 12             //sono un commento opzionale
 
 ## Esecuzione
 da shell scrivendo:
-$ python3 compiler.py sorgente.volt eseguibile x64
+- _$ python3 compiler.py sorgente.volt eseguibile x64_
 
 oppure si puo fare da file bash
 
