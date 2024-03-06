@@ -1,0 +1,4 @@
+data = """
+section .data
+
+"""
