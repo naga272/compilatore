@@ -1,9 +1,9 @@
-# Compiler with python
+# Compiler with python and nasm
 ![Language](https://img.shields.io/badge/Spellcheck-Pass-green?style=flat) 
 ![Platform](https://img.shields.io/badge/OS%20platform%20supported-Linux-green?style=flat)
 ![Platform](https://img.shields.io/badge/OS%20platform%20-Linux-green?style=flat) 
 ![Language](https://img.shields.io/badge/Language-Python-yellowgreen?style=flat)  
-![Language](https://img.shields.io/badge/Language-asm-blue?style=flat)
+![Language](https://img.shields.io/badge/Language-nasm-blue?style=flat)
 ![Testing](https://img.shields.io/badge/PEP8%20CheckOnline-Passing-green) 
 ![Testing](https://img.shields.io/badge/Test-Pass-green)
 
@@ -33,7 +33,7 @@ a += 25 - 12             //sono un commento opzionale
 
 ## Esecuzione
 da shell scrivendo:
-python3 compiler.py sorgente.volt eseguibile x64
+$ python3 compiler.py sorgente.volt eseguibile x64
 
 oppure si puo fare da file bash
 
