@@ -8,7 +8,7 @@ import os
 import re
 
 
-check = 0
+check = 1
 
 
 def system(argument:list) -> int:
