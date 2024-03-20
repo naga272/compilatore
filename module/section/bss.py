@@ -1,4 +1,0 @@
-bss = """
-section .bss
-
-"""
