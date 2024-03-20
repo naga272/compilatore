@@ -1,0 +1,4 @@
+bss = """
+section .bss
+
+"""
