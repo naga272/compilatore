@@ -1,0 +1,34 @@
+# changelog
+
+## version [1.1.2]
+### added
+
+- creata la shell accessibile se non si passano parametri al compilatore
+
+
+## version [1.1.1]
+### added
+
+- aggiunto costrutto iterativo while
+- aggiunto costrutto selettivo if
+
+
+## version [1.0.2]
+### added
+
+- cambiata estensione del file sorgente (da .sor a .volt)
+- cambiato la struttura del programma python
+- cambiate le regex per sintassi linguaggio
+- eliminato cython, e' stato fatto tutto con python puro
+- eliminato setup.py
+
+
+## version [1.0.1]
+### add
+
+- file.sor
+- compyler.pyx
+- main.py
+- regex per sintassi linguaggio
+- setup.py
+
